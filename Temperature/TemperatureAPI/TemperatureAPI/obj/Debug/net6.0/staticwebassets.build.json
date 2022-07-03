@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "l05FFZIN+0ZF7QCsIFsFG21K+JIcGCm1LAA0YBtC1ms=",
+  "Source": "TemperatureAPI",
+  "BasePath": "_content/TemperatureAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
