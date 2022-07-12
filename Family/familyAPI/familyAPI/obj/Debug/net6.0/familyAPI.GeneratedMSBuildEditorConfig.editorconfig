@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 is_global = true
 build_property.TargetFramework = net6.0
 build_property.TargetPlatformMinVersion = 
@@ -14,3 +15,21 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = D:\APIs\Family\familyAPI\familyAPI
 build_property._RazorSourceGeneratorDebug = 
+=======
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = familyAPI
+build_property.RootNamespace = familyAPI
+build_property.ProjectDir = C:\Users\User\source\repos\familyAPI\familyAPI\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\User\source\repos\familyAPI\familyAPI
+build_property._RazorSourceGeneratorDebug = 
+>>>>>>> 2913a87e4978204e8b72e499b616b9331073ee7b

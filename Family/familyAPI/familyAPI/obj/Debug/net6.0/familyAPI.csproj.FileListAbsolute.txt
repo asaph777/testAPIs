@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\User\source\repos\familyAPI\familyAPI\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\User\source\repos\familyAPI\familyAPI\bin\Debug\net6.0\appsettings.json
 C:\Users\User\source\repos\familyAPI\familyAPI\bin\Debug\net6.0\familyAPI.exe
@@ -322,3 +323,33 @@ D:\APIs\Family\familyAPI — копия\familyAPI\bin\Debug\net6.0\runtimes\win\
 D:\APIs\Family\familyAPI — копия\familyAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\APIs\Family\familyAPI — копия\familyAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\APIs\Family\familyAPI — копия\familyAPI\obj\Debug\net6.0\familyAPI.MvcApplicationPartsAssemblyInfo.cs
+=======
+C:\Users\User\source\repos\familyAPI\familyAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\source\repos\familyAPI\familyAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\User\source\repos\familyAPI\familyAPI\bin\Debug\net6.0\familyAPI.exe
+C:\Users\User\source\repos\familyAPI\familyAPI\bin\Debug\net6.0\familyAPI.deps.json
+C:\Users\User\source\repos\familyAPI\familyAPI\bin\Debug\net6.0\familyAPI.runtimeconfig.json
+C:\Users\User\source\repos\familyAPI\familyAPI\bin\Debug\net6.0\familyAPI.dll
+C:\Users\User\source\repos\familyAPI\familyAPI\bin\Debug\net6.0\ref\familyAPI.dll
+C:\Users\User\source\repos\familyAPI\familyAPI\bin\Debug\net6.0\familyAPI.pdb
+C:\Users\User\source\repos\familyAPI\familyAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\familyAPI\familyAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\familyAPI\familyAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\familyAPI\familyAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\familyAPI\familyAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\User\source\repos\familyAPI\familyAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\User\source\repos\familyAPI\familyAPI\obj\Debug\net6.0\familyAPI.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\familyAPI\familyAPI\obj\Debug\net6.0\familyAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\familyAPI\familyAPI\obj\Debug\net6.0\familyAPI.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\familyAPI\familyAPI\obj\Debug\net6.0\familyAPI.AssemblyInfo.cs
+C:\Users\User\source\repos\familyAPI\familyAPI\obj\Debug\net6.0\familyAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\familyAPI\familyAPI\obj\Debug\net6.0\familyAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\familyAPI\familyAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\source\repos\familyAPI\familyAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\source\repos\familyAPI\familyAPI\obj\Debug\net6.0\scopedcss\bundle\familyAPI.styles.css
+C:\Users\User\source\repos\familyAPI\familyAPI\obj\Debug\net6.0\familyAPI.csproj.CopyComplete
+C:\Users\User\source\repos\familyAPI\familyAPI\obj\Debug\net6.0\familyAPI.dll
+C:\Users\User\source\repos\familyAPI\familyAPI\obj\Debug\net6.0\ref\familyAPI.dll
+C:\Users\User\source\repos\familyAPI\familyAPI\obj\Debug\net6.0\familyAPI.pdb
+C:\Users\User\source\repos\familyAPI\familyAPI\obj\Debug\net6.0\familyAPI.genruntimeconfig.cache
+>>>>>>> 2913a87e4978204e8b72e499b616b9331073ee7b

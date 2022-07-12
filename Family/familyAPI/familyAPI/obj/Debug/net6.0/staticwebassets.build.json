@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "Version": 1,
   "Hash": "5M8j+lhk6oP27dFS3NIl1RaVQPZK5/7+O2m7ZYYLaGk=",
@@ -8,4 +9,16 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
   "Assets": []
+=======
+{
+  "Version": 1,
+  "Hash": "5M8j+lhk6oP27dFS3NIl1RaVQPZK5/7+O2m7ZYYLaGk=",
+  "Source": "familyAPI",
+  "BasePath": "_content/familyAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+>>>>>>> 2913a87e4978204e8b72e499b616b9331073ee7b
 }

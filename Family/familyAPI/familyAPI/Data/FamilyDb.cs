@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using Microsoft.EntityFrameworkCore;
 
@@ -22,3 +23,13 @@ namespace familyAPI.Data
         }             
     }    
 }
+=======
+﻿namespace familyAPI.Data
+{
+    public class FamilyDb : DbContext
+    {
+        public FamilyDb(DbContextOptions<FamilyDb> options) : base(options) { }
+        public DbSet<Odam> Odam => Set<Odam>();
+    }
+}
+>>>>>>> 2913a87e4978204e8b72e499b616b9331073ee7b
